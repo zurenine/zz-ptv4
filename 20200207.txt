@@ -1,0 +1,118 @@
+央视频道,#genre#
+CCTV 1,http://8.218.11.245:91/api/channel/v1k3d/8183cT.m3u8
+CCTV 2,http://8.218.11.245:91/api/channel/v1k3d/cctv2.m3u8
+CCTV 3,http://8.218.11.245:91/api/channel/v1k3d/cctv3.m3u8
+CCTV 4,http://8.218.11.245:91/api/channel/v1k3d/cctv4.m3u8
+CCTV 5,http://8.218.11.245:91/api/channel/v1k3d/cctv5.m3u8
+CCTV5+,http://8.218.11.245:91/api/channel/v1k3d/cctv5p.m3u8
+CCTV 7,http://8.218.11.245:91/api/channel/v1k3d/cctv7.m3u8
+CCTV 8,http://8.218.11.245:91/api/channel/v1k3d/cctv8.m3u8
+CCTV 10,http://8.218.11.245:91/api/channel/v1k3d/cctv10.m3u8
+CCTV 11,http://8.218.11.245:91/api/channel/v1k3d/cctv11.m3u8
+CCTV 12,http://8.218.11.245:91/api/channel/v1k3d/cctv12.m3u8
+CCTV 13,http://8.218.11.245:91/api/channel/v1k3d/cctv13.m3u8
+CCTV 14,http://8.218.11.245:91/api/channel/v1k3d/cctv14.m3u8
+CCTV 15,http://8.218.11.245:91/api/channel/v1k3d/cctv15.m3u8
+CCTV 16,http://8.218.11.245:91/api/channel/v1k3d/cctv16.m3u8
+CCTV 17,http://8.218.11.245:91/api/channel/v1k3d/cctv17.m3u8
+
+卫视频道,#genre#
+北京卫视,http://8.218.11.245:91/api/channel/v1k3d/bjws.m3u8
+东方卫视,http://8.218.11.245:91/api/channel/v1k3d/dfws.m3u8
+天津卫视,http://8.218.11.245:91/api/channel/v1k3d/tjws.m3u8
+重庆卫视,http://8.218.11.245:91/api/channel/v1k3d/cqws.m3u8
+黑龙江卫视,http://8.218.11.245:91/api/channel/v1k3d/hljws.m3u8
+湖北卫视,http://8.218.11.245:91/api/channel/v1k3d/hubws.m3u8
+湖南卫视,http://8.218.11.245:91/api/channel/v1k3d/hunws.m3u8
+江苏卫视,http://8.218.11.245:91/api/channel/v1k3d/jsws.m3u8
+浙江卫视,http://8.218.11.245:91/api/channel/v1k3d/zjws.m3u8
+广东卫视,http://8.218.11.245:91/api/channel/v1k3d/gdws.m3u8
+深圳卫视,http://8.218.11.245:91/api/channel/v1k3d/szws.m3u8
+海南卫视,http://8.218.11.245:91/api/channel/v1k3d/hinws.m3u8
+
+港澳频道,#genre#
+凤凰卫视,http://8.218.11.245:91/api/channel/v1k3d/fenghuangws1.m3u8
+凤凰资讯,http://8.218.11.245:91/api/channel/v1k3d/fenghuangzx1.m3u8
+凤凰香港,http://8.218.11.245:91/api/channel/v1k3d/fenghuangxg1.m3u8
+凤凰香港,http://8.218.11.245:91/api/channel/v1k3d/fenghuangxg2.m3u8
+香港卫视,http://8.218.11.245:91/api/channel/v1k3d/xianggangws1.m3u8
+Viutv,http://8.218.11.245:91/api/channel/v1k3d/viutv1.m3u8
+RTHK32,http://8.218.11.245:91/api/channel/v1k3d/rthk32.m3u8
+纬来体育,http://8.218.11.245:91/api/channel/v1k3d/wlty.m3u8
+
+山西频道,#genre#
+运城新闻综合,http://8.218.11.245:91/api/channel/v1k3d/ycxw.m3u8
+运城公共频道,http://8.218.11.245:91/api/channel/v1k3d/ycgg.m3u8
+晋中综合,http://8.218.11.245:91/api/channel/v1k3d/jzzh.m3u8
+晋中公共,http://8.218.11.245:91/api/channel/v1k3d/jzgg.m3u8
+
+浙江频道,#genre#
+浙江钱江都市,http://8.218.11.245:91/api/channel/v1k3d/zjqj.m3u8
+浙江经济生活,http://8.218.11.245:91/api/channel/v1k3d/zjjj.m3u8
+浙江教科影院,http://8.218.11.245:91/api/channel/v1k3d/zjkj.m3u8
+浙江民生休闲,http://8.218.11.245:91/api/channel/v1k3d/zjmsxx.m3u8
+浙江新闻,http://8.218.11.245:91/api/channel/v1k3d/zjxw.m3u8
+浙江国际,http://8.218.11.245:91/api/channel/v1k3d/zjgj.m3u8
+绍兴新闻综合,http://8.218.11.245:91/api/channel/v1k3d/ssxw.m3u8
+绍兴文化影院,http://8.218.11.245:91/api/channel/v1k3d/sxwh.m3u8
+武义新闻综合,http://8.218.11.245:91/api/channel/v1k3d/wyxw.m3u8
+平湖新闻综合,http://8.218.11.245:91/api/channel/v1k3d/phxw.m3u8
+萧山新闻综合,http://8.218.11.245:91/api/channel/v1k3d/xsxw.m3u8
+余杭综合频道,http://8.218.11.245:91/api/channel/v1k3d/yhzh.m3u8
+余杭未来E频道,http://8.218.11.245:91/api/channel/v1k3d/wlepd.m3u8
+余姚新闻综合,http://8.218.11.245:91/api/channel/v1k3d/yyxwzh.m3u8
+余姚姚江文化,http://8.218.11.245:91/api/channel/v1k3d/yyyjwh.m3u8
+嵊州新闻综合,http://8.218.11.245:91/api/channel/v1k3d/czxwzh.m3u8
+诸暨新闻综合,http://8.218.11.245:91/api/channel/v1k3d/zzxwzh1.m3u8
+上虞新闻综合,http://8.218.11.245:91/api/channel/v1k3d/syxwzh.m3u8
+兰溪新闻综合,http://8.218.11.245:91/api/channel/v1k3d/lxxwzh.m3u8
+
+河北频道,#genre#
+河北都市,http://8.218.11.245:91/api/channel/v1k3d/hbds.m3u8
+河北公共,http://8.218.11.245:91/api/channel/v1k3d/hbgg1.m3u8
+邯郸新闻,http://8.218.11.245:91/api/channel/v1k3d/hsxw.m3u8
+邯郸公共,http://8.218.11.245:91/api/channel/v1k3d/hsgg.m3u8
+邯郸科技,http://8.218.11.245:91/api/channel/v1k3d/hskj.m3u8
+河北农民,http://8.218.11.245:91/api/channel/v1k3d/hbnm.m3u8
+石家庄新闻综合,http://8.218.11.245:91/api/channel/v1k3d/sjzxwzh.m3u8
+石家庄娱乐,http://8.218.11.245:91/api/channel/v1k3d/sjzyl.m3u8
+石家庄生活,http://8.218.11.245:91/api/channel/v1k3d/sjzsh.m3u8
+石家庄都市,http://8.218.11.245:91/api/channel/v1k3d/sjzds.m3u8
+邯郸新闻,http://8.218.11.245:91/api/channel/v1k3d/gdxw.m3u8
+
+山东频道,#genre#
+烟台新闻综合,http://8.218.11.245:91/api/channel/v1k3d/ytxw.m3u8
+烟台公共,http://8.218.11.245:91/api/channel/v1k3d/ytgg.m3u8
+烟台经济科技,http://8.218.11.245:91/api/channel/v1k3d/ytjj.m3u8
+烟台影视,http://8.218.11.245:91/api/channel/v1k3d/ytys.m3u8
+菏泽新闻综合,http://8.218.11.245:91/api/channel/v1k3d/hzxwzh.m3u8
+菏泽经济生活,http://8.218.11.245:91/api/channel/v1k3d/hzjjsh.m3u8
+枣庄新闻综合,http://8.218.11.245:91/api/channel/v1k3d/zzxwzh.m3u8
+枣庄教育,http://8.218.11.245:91/api/channel/v1k3d/zzjy.m3u8
+枣庄公共,http://8.218.11.245:91/api/channel/v1k3d/zzgg.m3u8
+
+江苏频道,#genre#
+苏州4k,http://8.218.11.245:91/api/channel/v1k3d/sz4k.m3u8
+无锡娱乐,http://8.218.11.245:91/api/channel/v1k3d/wxyl.m3u8
+无锡都市资讯,http://8.218.11.245:91/api/channel/v1k3d/wxds.m3u8
+无锡生活,http://8.218.11.245:91/api/channel/v1k3d/wxsh.m3u8
+无锡经济,http://8.218.11.245:91/api/channel/v1k3d/wxjj.m3u8
+东台综合频道,http://8.218.11.245:91/api/channel/v1k3d/dtzh.m3u8
+盐都综合频道,http://8.218.11.245:91/api/channel/v1k3d/ydzh.m3u8
+溧水新闻综合,http://8.218.11.245:91/api/channel/v1k3d/wsxw.m3u8
+金湖新闻综合,http://8.218.11.245:91/api/channel/v1k3d/jhxw.m3u8
+金坛新闻频道,http://8.218.11.245:91/api/channel/v1k3d/jwxw1.m3u8
+海安新闻综合,http://8.218.11.245:91/api/channel/v1k3d/haxw.m3u8
+睢宁综合频道,http://8.218.11.245:91/api/channel/v1k3d/wnzh.m3u8
+睢宁生活教育,http://8.218.11.245:91/api/channel/v1k3d/wnsh.m3u8
+睢宁三农频道,http://8.218.11.245:91/api/channel/v1k3d/sn.m3u8
+沭阳综合频道,http://8.218.11.245:91/api/channel/v1k3d/myzh.m3u8
+东海新闻频道,http://8.218.11.245:91/api/channel/v1k3d/dhxw.m3u8
+贾汪新闻频道,http://8.218.11.245:91/api/channel/v1k3d/jwxw.m3u8
+泗阳综合频道,http://8.218.11.245:91/api/channel/v1k3d/syzh.m3u8
+泗阳资讯频道,http://8.218.11.245:91/api/channel/v1k3d/syzx.m3u8
+
+江西频道,#genre#
+江西都市频道,http://8.218.11.245:91/api/channel/v1k3d/d745MI.m3u8
+江西经济生活频道,http://8.218.11.245:91/api/channel/v1k3d/eQ5922.m3u8
+江西经济生活频道高清,http://8.218.11.245:91/api/channel/v1k3d/28584n.m3u8
