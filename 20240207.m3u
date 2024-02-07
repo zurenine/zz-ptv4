@@ -1,0 +1,203 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 1" tvg-id="cctv 1" tvg-name="cctv 1" group-title="央视频道",CCTV 1
+http://8.218.11.245:91/api/channel/v1k3d/8183cT.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 2" tvg-id="cctv 2" tvg-name="cctv 2" group-title="央视频道",CCTV 2
+http://8.218.11.245:91/api/channel/v1k3d/cctv2.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 3" tvg-id="cctv 3" tvg-name="cctv 3" group-title="央视频道",CCTV 3
+http://8.218.11.245:91/api/channel/v1k3d/cctv3.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 4" tvg-id="cctv 4" tvg-name="cctv 4" group-title="央视频道",CCTV 4
+http://8.218.11.245:91/api/channel/v1k3d/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 5" tvg-id="cctv 5" tvg-name="cctv 5" group-title="央视频道",CCTV 5
+http://8.218.11.245:91/api/channel/v1k3d/cctv5.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5+
+http://8.218.11.245:91/api/channel/v1k3d/cctv5p.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 7" tvg-id="cctv 7" tvg-name="cctv 7" group-title="央视频道",CCTV 7
+http://8.218.11.245:91/api/channel/v1k3d/cctv7.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 8" tvg-id="cctv 8" tvg-name="cctv 8" group-title="央视频道",CCTV 8
+http://8.218.11.245:91/api/channel/v1k3d/cctv8.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 10" tvg-id="cctv 10" tvg-name="cctv 10" group-title="央视频道",CCTV 10
+http://8.218.11.245:91/api/channel/v1k3d/cctv10.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 11" tvg-id="cctv 11" tvg-name="cctv 11" group-title="央视频道",CCTV 11
+http://8.218.11.245:91/api/channel/v1k3d/cctv11.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 12" tvg-id="cctv 12" tvg-name="cctv 12" group-title="央视频道",CCTV 12
+http://8.218.11.245:91/api/channel/v1k3d/cctv12.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 13" tvg-id="cctv 13" tvg-name="cctv 13" group-title="央视频道",CCTV 13
+http://8.218.11.245:91/api/channel/v1k3d/cctv13.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 14" tvg-id="cctv 14" tvg-name="cctv 14" group-title="央视频道",CCTV 14
+http://8.218.11.245:91/api/channel/v1k3d/cctv14.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 15" tvg-id="cctv 15" tvg-name="cctv 15" group-title="央视频道",CCTV 15
+http://8.218.11.245:91/api/channel/v1k3d/cctv15.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 16" tvg-id="cctv 16" tvg-name="cctv 16" group-title="央视频道",CCTV 16
+http://8.218.11.245:91/api/channel/v1k3d/cctv16.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/cctv 17" tvg-id="cctv 17" tvg-name="cctv 17" group-title="央视频道",CCTV 17
+http://8.218.11.245:91/api/channel/v1k3d/cctv17.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://8.218.11.245:91/api/channel/v1k3d/bjws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://8.218.11.245:91/api/channel/v1k3d/dfws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/天津卫视" tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道",天津卫视
+http://8.218.11.245:91/api/channel/v1k3d/tjws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+http://8.218.11.245:91/api/channel/v1k3d/cqws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://8.218.11.245:91/api/channel/v1k3d/hljws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://8.218.11.245:91/api/channel/v1k3d/hubws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://8.218.11.245:91/api/channel/v1k3d/hunws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://8.218.11.245:91/api/channel/v1k3d/jsws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://8.218.11.245:91/api/channel/v1k3d/zjws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/广东卫视" tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://8.218.11.245:91/api/channel/v1k3d/gdws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://8.218.11.245:91/api/channel/v1k3d/szws.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/海南卫视" tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道",海南卫视
+http://8.218.11.245:91/api/channel/v1k3d/hinws.m3u8
+#EXTINF:-1,凤凰卫视
+http://8.218.11.245:91/api/channel/v1k3d/fenghuangws1.m3u8
+#EXTINF:-1,凤凰资讯
+http://8.218.11.245:91/api/channel/v1k3d/fenghuangzx1.m3u8
+#EXTINF:-1,凤凰香港
+http://8.218.11.245:91/api/channel/v1k3d/fenghuangxg1.m3u8
+#EXTINF:-1,凤凰香港
+http://8.218.11.245:91/api/channel/v1k3d/fenghuangxg2.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="港澳频道",香港卫视
+http://8.218.11.245:91/api/channel/v1k3d/xianggangws1.m3u8
+#EXTINF:-1,Viutv
+http://8.218.11.245:91/api/channel/v1k3d/viutv1.m3u8
+#EXTINF:-1,RTHK32
+http://8.218.11.245:91/api/channel/v1k3d/rthk32.m3u8
+#EXTINF:-1,纬来体育
+http://8.218.11.245:91/api/channel/v1k3d/wlty.m3u8
+#EXTINF:-1,运城新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/ycxw.m3u8
+#EXTINF:-1,运城公共频道
+http://8.218.11.245:91/api/channel/v1k3d/ycgg.m3u8
+#EXTINF:-1,晋中综合
+http://8.218.11.245:91/api/channel/v1k3d/jzzh.m3u8
+#EXTINF:-1,晋中公共
+http://8.218.11.245:91/api/channel/v1k3d/jzgg.m3u8
+#EXTINF:-1,浙江钱江都市
+http://8.218.11.245:91/api/channel/v1k3d/zjqj.m3u8
+#EXTINF:-1,浙江经济生活
+http://8.218.11.245:91/api/channel/v1k3d/zjjj.m3u8
+#EXTINF:-1,浙江教科影院
+http://8.218.11.245:91/api/channel/v1k3d/zjkj.m3u8
+#EXTINF:-1,浙江民生休闲
+http://8.218.11.245:91/api/channel/v1k3d/zjmsxx.m3u8
+#EXTINF:-1,浙江新闻
+http://8.218.11.245:91/api/channel/v1k3d/zjxw.m3u8
+#EXTINF:-1,浙江国际
+http://8.218.11.245:91/api/channel/v1k3d/zjgj.m3u8
+#EXTINF:-1,绍兴新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/ssxw.m3u8
+#EXTINF:-1,绍兴文化影院
+http://8.218.11.245:91/api/channel/v1k3d/sxwh.m3u8
+#EXTINF:-1,武义新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/wyxw.m3u8
+#EXTINF:-1,平湖新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/phxw.m3u8
+#EXTINF:-1,萧山新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/xsxw.m3u8
+#EXTINF:-1,余杭综合频道
+http://8.218.11.245:91/api/channel/v1k3d/yhzh.m3u8
+#EXTINF:-1,余杭未来E频道
+http://8.218.11.245:91/api/channel/v1k3d/wlepd.m3u8
+#EXTINF:-1,余姚新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/yyxwzh.m3u8
+#EXTINF:-1,余姚姚江文化
+http://8.218.11.245:91/api/channel/v1k3d/yyyjwh.m3u8
+#EXTINF:-1,嵊州新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/czxwzh.m3u8
+#EXTINF:-1,诸暨新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/zzxwzh1.m3u8
+#EXTINF:-1,上虞新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/syxwzh.m3u8
+#EXTINF:-1,兰溪新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/lxxwzh.m3u8
+#EXTINF:-1,河北都市
+http://8.218.11.245:91/api/channel/v1k3d/hbds.m3u8
+#EXTINF:-1,河北公共
+http://8.218.11.245:91/api/channel/v1k3d/hbgg1.m3u8
+#EXTINF:-1,邯郸新闻
+http://8.218.11.245:91/api/channel/v1k3d/hsxw.m3u8
+#EXTINF:-1,邯郸公共
+http://8.218.11.245:91/api/channel/v1k3d/hsgg.m3u8
+#EXTINF:-1,邯郸科技
+http://8.218.11.245:91/api/channel/v1k3d/hskj.m3u8
+#EXTINF:-1,河北农民
+http://8.218.11.245:91/api/channel/v1k3d/hbnm.m3u8
+#EXTINF:-1,石家庄新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/sjzxwzh.m3u8
+#EXTINF:-1,石家庄娱乐
+http://8.218.11.245:91/api/channel/v1k3d/sjzyl.m3u8
+#EXTINF:-1,石家庄生活
+http://8.218.11.245:91/api/channel/v1k3d/sjzsh.m3u8
+#EXTINF:-1,石家庄都市
+http://8.218.11.245:91/api/channel/v1k3d/sjzds.m3u8
+#EXTINF:-1,邯郸新闻
+http://8.218.11.245:91/api/channel/v1k3d/gdxw.m3u8
+#EXTINF:-1,烟台新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/ytxw.m3u8
+#EXTINF:-1,烟台公共
+http://8.218.11.245:91/api/channel/v1k3d/ytgg.m3u8
+#EXTINF:-1,烟台经济科技
+http://8.218.11.245:91/api/channel/v1k3d/ytjj.m3u8
+#EXTINF:-1,烟台影视
+http://8.218.11.245:91/api/channel/v1k3d/ytys.m3u8
+#EXTINF:-1,菏泽新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/hzxwzh.m3u8
+#EXTINF:-1,菏泽经济生活
+http://8.218.11.245:91/api/channel/v1k3d/hzjjsh.m3u8
+#EXTINF:-1,枣庄新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/zzxwzh.m3u8
+#EXTINF:-1,枣庄教育
+http://8.218.11.245:91/api/channel/v1k3d/zzjy.m3u8
+#EXTINF:-1,枣庄公共
+http://8.218.11.245:91/api/channel/v1k3d/zzgg.m3u8
+#EXTINF:-1,苏州4k
+http://8.218.11.245:91/api/channel/v1k3d/sz4k.m3u8
+#EXTINF:-1,无锡娱乐
+http://8.218.11.245:91/api/channel/v1k3d/wxyl.m3u8
+#EXTINF:-1,无锡都市资讯
+http://8.218.11.245:91/api/channel/v1k3d/wxds.m3u8
+#EXTINF:-1,无锡生活
+http://8.218.11.245:91/api/channel/v1k3d/wxsh.m3u8
+#EXTINF:-1,无锡经济
+http://8.218.11.245:91/api/channel/v1k3d/wxjj.m3u8
+#EXTINF:-1,东台综合频道
+http://8.218.11.245:91/api/channel/v1k3d/dtzh.m3u8
+#EXTINF:-1,盐都综合频道
+http://8.218.11.245:91/api/channel/v1k3d/ydzh.m3u8
+#EXTINF:-1,溧水新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/wsxw.m3u8
+#EXTINF:-1,金湖新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/jhxw.m3u8
+#EXTINF:-1,金坛新闻频道
+http://8.218.11.245:91/api/channel/v1k3d/jwxw1.m3u8
+#EXTINF:-1,海安新闻综合
+http://8.218.11.245:91/api/channel/v1k3d/haxw.m3u8
+#EXTINF:-1,睢宁综合频道
+http://8.218.11.245:91/api/channel/v1k3d/wnzh.m3u8
+#EXTINF:-1,睢宁生活教育
+http://8.218.11.245:91/api/channel/v1k3d/wnsh.m3u8
+#EXTINF:-1,睢宁三农频道
+http://8.218.11.245:91/api/channel/v1k3d/sn.m3u8
+#EXTINF:-1,沭阳综合频道
+http://8.218.11.245:91/api/channel/v1k3d/myzh.m3u8
+#EXTINF:-1,东海新闻频道
+http://8.218.11.245:91/api/channel/v1k3d/dhxw.m3u8
+#EXTINF:-1,贾汪新闻频道
+http://8.218.11.245:91/api/channel/v1k3d/jwxw.m3u8
+#EXTINF:-1,泗阳综合频道
+http://8.218.11.245:91/api/channel/v1k3d/syzh.m3u8
+#EXTINF:-1,泗阳资讯频道
+http://8.218.11.245:91/api/channel/v1k3d/syzx.m3u8
+#EXTINF:-1,江西都市频道
+http://8.218.11.245:91/api/channel/v1k3d/d745MI.m3u8
+#EXTINF:-1,江西经济生活频道
+http://8.218.11.245:91/api/channel/v1k3d/eQ5922.m3u8
+#EXTINF:-1,江西经济生活频道高清
+http://8.218.11.245:91/api/channel/v1k3d/28584n.m3u8
